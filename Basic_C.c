@@ -2,7 +2,7 @@
  int ID;
  double GPA;
  float score;
- char sex;
+ char sex = 'M';
 int main(){
     printf("Enter ID:");
     scanf("%d",&ID);
@@ -15,9 +15,10 @@ int main(){
     printf("Enter score:");
     scanf("%f",&score);
     printf("My score is: %f\n",score);
+    
+    //printf("Enter sex:");
+    //scanf("%c",&sex);
+    printf("My sex is: %c\n",sex);
 
-    printf("Enter you sex:");
-    scanf("%c",&sex);
-    printf("My sex is: %c \n",sex);
     return 0;
 }
