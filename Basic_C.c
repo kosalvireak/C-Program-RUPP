@@ -115,7 +115,7 @@ int main(){
     //     }
     // else{
     //     dis_age = your_age - my_age;
-    //     printf("I am younger then you %d year",dis_age);
+    //     printf("I am younger then you %d years",dis_age);
     // }
     return 0;
 }
