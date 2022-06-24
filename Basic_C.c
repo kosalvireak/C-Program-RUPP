@@ -80,18 +80,7 @@ int main(){
       printf("The result is:%lf",sqrt(square_root));
       break;
   }
-  //----------------------
-  // year = getchar();
-  // switch(year){
-  //   case 'A':
-  //     printf("Excellent");
-  //     break;
-  //   case 'B':
-  //     printf("superb");
-  //     break;
-  //   default:
-  //     printf("NO");
-  // }
+
   
 //-----------------------------------------------------------
   
